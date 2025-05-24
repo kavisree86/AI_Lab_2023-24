@@ -57,7 +57,8 @@ symptom(raju,sore_throat).
 
 
 ### Output:
-<img width="475" alt="image" src="https://github.com/user-attachments/assets/e8165ebd-b8ab-4b99-854f-f997cf5a47d2" />
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/5ea27296-8cbc-42e4-b3cb-de0d42c2ffc6" />
+
 
 
 
