@@ -6,6 +6,7 @@ To write a program to train the classifier for -----------------.
 ###  Algorithm:
 
 ### Program:
+```
 import numpy as np
 import pandas as pd
 pip install gradio
@@ -46,8 +47,12 @@ def diabetes(Pregnancies, Glucose, Blood_Pressure, SkinThickness, Insulin, BMI,D
 outputs = gr.Textbox()
 app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','number','number','number','number'], outputs=outputs,description="Detection of Diabeties")
 app.launch(share=True)
+```
 
 ### output:
+
+![image](https://github.com/user-attachments/assets/a837d6fc-d8c3-4d9c-a3b0-e0eda84ced3b)
+![image](https://github.com/user-attachments/assets/6ec2ae90-53dc-4730-aa29-62fb828293fc)
 
 
 
